@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## Home
+## Proposal
 ### Automated Cryptocurrency Trader using ML
 
 Stock exchanges are the economic engines of the world, organizing the sales of shares in companies; investors seek to buy and sell stocks via these stock exchanges in order to turn a profit. Their decisions may be made based on fundamentals of the company such as their earning reports, analysis of the current trend of the stock, or broader macroeconomic factors. As such, day-traders of stocks may spend hours a day reviewing the latest news or examining the trends of stocks, and buying or selling based on their analysis.
