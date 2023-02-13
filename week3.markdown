@@ -3,6 +3,8 @@ layout: page
 title: Week 3
 permalink: /week-3/
 ---
+## Week 3
+
 Read research paper and tried implementing LSTM model to do binary prediction on price movement with hourly data of BTC. Goal was to give binary classification on whether
 price goes up or down at the next hour. Result was unsuccessful, accuracy was 48~52%, which means that it was just as good as a random guess. All prices were normalized
 using min max. Lookback times 30, 100 hours were used, bigger parameters made the RAM crash, which means that we probably need to build out batch training structure to do
