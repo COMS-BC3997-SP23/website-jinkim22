@@ -4,7 +4,8 @@
 
 layout: home
 ---
-## Automated Cryptocurrency Trader using ML
+## Home
+### Automated Cryptocurrency Trader using ML
 
 Stock exchanges are the economic engines of the world, organizing the sales of shares in companies; investors seek to buy and sell stocks via these stock exchanges in order to turn a profit. Their decisions may be made based on fundamentals of the company such as their earning reports, analysis of the current trend of the stock, or broader macroeconomic factors. As such, day-traders of stocks may spend hours a day reviewing the latest news or examining the trends of stocks, and buying or selling based on their analysis.
 The goal of our project is to develop a high-performance system to buy and sell securities for profit, specifically cryptocurrencies, with the decisions being made by a deep learning model. This way, the analysis and trading is automated, similar to what is done at today’s hedge funds. The trading of cryptocurrency was chosen over stocks due to trading being consistent around the clock, rather than fixed trading hours. 
