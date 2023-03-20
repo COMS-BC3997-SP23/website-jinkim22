@@ -16,9 +16,12 @@ The goal of our project is to develop a high-performance system to buy and sell 
 INSERT PHOTO HERE
 
 # Wins
-
+- End-to-end system online running on Google Cloud with monitoring dashboard
+- Rapidly brainstormed and iterated through various trading engine algorithm ideas, from simple moving average to mean reversion to momentum trading strategies
+- Backtesting: 75% in profits over the course of two yeras, despite the turmoil in sudden increase and decrease of prices in the time period tested, 1/1/2021 to 2/28/2023
 
 # Plans
+We believe a system ingesting stock data in real-time and making real-time decisions is a more exciting thing to work on, so we plan to transition our current system to that method.
 
 # Issues
 There were some issues we faced along the way, primarily regarding the success of the underlying stock prediction algorithms
