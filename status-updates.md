@@ -12,8 +12,10 @@ If you don't know us already, our names are Jin Kim and Sai Chintalapati, both s
 ## Project Idea
 The goal of our project is to develop a high-performance system to buy and sell securities for profit, specifically cryptocurrencies, with the decisions being made by a deep learning model. This way, the analysis and trading is automated, similar to what is done at today’s hedge funds. The trading of cryptocurrency was chosen over stocks due to trading being consistent around the clock, rather than fixed trading hours. The infrastructure should allow for the execution of trades on a mock exchange API that trades cryptocurrencies in a “paper-trading” account. The success of the algorithmic trading system can be measured by the return of the system historically, and in a specific time-frame. 
 
+
 ## Wins
-- End-to-end system online running on Google Cloud with monitoring dashboard, including infrastructure for data pipeline, triggering algorithm every 20 minutes, and running trades
+- End-to-end system online running on Google Cloud, including infrastructure for data pipeline, triggering algorithm every 20 minutes, and running trades
+- Accompanying web dashboard (http://stocktradingbotdashboard.uw.r.appspot.com/)
 - Rapidly brainstormed and iterated through various trading engine algorithm ideas, from simple moving average to mean reversion to momentum trading strategies
 - Backtesting: 75% in profits over the course of two yeras, despite the turmoil in sudden increase and decrease of prices in the time period tested, 1/1/2021 to 2/28/2023
 
