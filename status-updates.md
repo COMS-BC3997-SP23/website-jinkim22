@@ -26,5 +26,5 @@ The goal of our project is to develop a high-performance system to buy and sell 
 - Create a backtest infrastucture, for now we've been using QuantConnect
 
 ## Issues
-There were some issues we faced along the way, primarily regarding the success of the underlying stock prediction algorithms. From experimenting with various short-term (intraday) price prediction models, such as using LSTMs, we were unable to create a model that produced reliable hourly predictions that were in any way usable (48% accuracy for guessing what the price movement will be in the next hour). Now, we gained some success in 
+There were some issues we faced along the way, primarily regarding the success of the underlying stock prediction algorithms. From experimenting with various short-term (intraday) price prediction models (using LSTM, random forest, and SVMs), we were unable to create a model that produced reliable hourly predictions that were in any way usable (48% accuracy for guessing what the price movement will be in the next hour). We are unblocked at the moment, building out other parts of the bot and validating that the returns are replicable using backtesting.
 
