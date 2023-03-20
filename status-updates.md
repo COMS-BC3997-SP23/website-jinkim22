@@ -6,15 +6,20 @@ permalink: /status-updates/
 ## Status Updates
 
 
-1. Make a new
-dedicated page
-2. Who are you?
-3. What is your
-project?
-4. What wins have you
-had?
-5. What are your plans
-for the rest of the
-semester?
-6. Where are you
-stuck?
+# About Us
+If you don't know us already, our names are Jin Kim and Sai Chintalapati, both seniors in SEAS studying Computer Science.
+
+# Project Idea
+The goal of our project is to develop a high-performance system to buy and sell securities for profit, specifically cryptocurrencies, with the decisions being made by a deep learning model. This way, the analysis and trading is automated, similar to what is done at today’s hedge funds. The trading of cryptocurrency was chosen over stocks due to trading being consistent around the clock, rather than fixed trading hours. The infrastructure should allow for the execution of trades on a mock exchange API that trades cryptocurrencies in a “paper-trading” account. The success of the algorithmic trading system can be measured by the return of the system historically, and in a specific time-frame. 
+
+# Components
+INSERT PHOTO HERE
+
+# Wins
+
+
+# Plans
+
+# Issues
+There were some issues we faced along the way, primarily regarding the success of the underlying stock prediction algorithms
+- 
